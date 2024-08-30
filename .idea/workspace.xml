@@ -4,15 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f31dd6be-02f3-4874-aa7d-80f8294508d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_07_2024/lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="98525e4b-b8b5-4cd2-9bd5-04894aa8bd96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/objectClassExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Aug_2024/WrapperClasses/Lab195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Aug_2024/WrapperClasses/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Aug_2024/WrapperClasses/enumEx/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Aug_2024/WrapperClasses/enumEx/BUG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Aug_2024/WrapperClasses/enumEx/LAb01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Aug_2024/WrapperClasses/enumEx/PAGES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oOps/interfaceEx/CarC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oOps/interfaceEx/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oOps/interfaceEx/Lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oOps/interfaceEx/diamondProblem/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oOps/staticKeyword/StaticLab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/Chrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/Chrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/Firefox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/Firefox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/Lab012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningJavaWithZbr/oOps/abstraction/Lab012.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oOps/abstraction/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oOps/abstraction/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oOps/abstraction/Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oOps/abstraction/Chrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oOps/abstraction/Firefox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oOps/abstraction/Firefox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -39,25 +54,25 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2kgtq1Hmtwwf9yItKU6UO9i1jKK" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Automation/LearningJavaWithZbr/learningJavaWithZbr"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Automation/LearningJavaWithZbr/learningJavaWithZbr&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f31dd6be-02f3-4874-aa7d-80f8294508d9" name="Changes" comment="" />
+      <changelist id="98525e4b-b8b5-4cd2-9bd5-04894aa8bd96" name="Changes" comment="" />
       <created>1723717234439</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -78,5 +93,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learningJavaWithZbr$Lab012.ic" NAME="Lab012 Coverage Results" MODIFIED="1723881447724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>oOps.polymorphism.overriding.*</FILTER>
+    </SUITE>
   </component>
 </project>

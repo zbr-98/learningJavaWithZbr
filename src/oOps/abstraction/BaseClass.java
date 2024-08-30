@@ -2,10 +2,13 @@ package oOps.abstraction;
 
 public abstract class BaseClass extends GrandBaseClass{
 
-    abstract String startBrowser(String a);
-    abstract String closeBrowser(String b);
+    String a="zbr";
+
+    abstract void startBrowser(String a);
+    abstract void closeBrowser(String b);
 
     void takeScreenshot(){
-        System.out.println("Taking screenshot by base class itself!");
+        a=a+"abc";
+        System.out.println("Taking screenshot by base class itself! "+a);
     }
 }
